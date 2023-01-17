@@ -6,11 +6,11 @@
 https://nadiacoelhoc.github.io/To-do-list/
 
 
-### ✏ Objective:
+### ✏ Objectives:
 - Create a new task
 - Remove a task
 - Mark and unmark a task as complete
-- Show task conclusion progress.
+- Show task conclusion progress
 
 ### 🛠 Built with:
 
